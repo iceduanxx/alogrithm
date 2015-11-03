@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="jobTest-lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/quartz-2.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/c3p0-0.9.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-log4j12-1.6.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.6.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/quartz-jobs-2.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/微云网盘/191432544/apache/quartz-2.2.0-distribution/quartz-2.2.0/src" />
+    </SOURCES>
+  </library>
+</component>

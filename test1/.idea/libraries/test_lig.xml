@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="test-lig">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/commons-fileupload.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-api-2003-04-07.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
